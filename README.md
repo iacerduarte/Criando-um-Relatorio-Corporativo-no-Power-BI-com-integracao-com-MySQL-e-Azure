@@ -1,6 +1,7 @@
 # Criando-um-Relatorio-Corporativo-no-Power-BI-com-integração-com-MySQL-e-Azure
 
 📊 Integração de Dados com MySQL Azure e Power BI
+
 📌 Descrição do Projeto
 
 Este projeto tem como objetivo demonstrar a integração de dados entre o MySQL hospedado na Azure e o Power BI, além de aplicar técnicas de transformação e tratamento de dados para análise.
