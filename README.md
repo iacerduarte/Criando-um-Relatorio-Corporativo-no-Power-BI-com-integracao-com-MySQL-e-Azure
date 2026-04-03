@@ -1,4 +1,4 @@
-# Criando-um-Relatorio-Corporativo-no-Power-BI-com-integração-com-MySQL-e-Azure
+# Criando-um-Dashboard-Corporativo-no-Power-BI-com-integração-com-MySQL-e-Azure
 
 📊 Integração de Dados com MySQL Azure e Power BI
 
